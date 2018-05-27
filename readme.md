@@ -22,6 +22,7 @@
 
 ### 四、创建上下文操作模式(ActionMode)的上下文菜单
 
+![](https://github.com/Augustwuli/Lab4-AndroidWork/blob/master/image/p41.png)
 
+![](https://github.com/Augustwuli/Lab4-AndroidWork/blob/master/image/p42.png)
 
-本地Android模拟器有问题所以无法截图。。
